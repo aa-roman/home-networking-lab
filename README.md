@@ -30,3 +30,22 @@ The goal of this lab is to practice:
 - [ ] Networking troubleshooting
 - [ ] Wireshark packet analysis
 - [ ] Packet Tracer topologies
+
+---
+
+## Day 1 Progress
+
+### Completed
+- Installed VirtualBox
+- Created Ubuntu virtual machine
+- Created Windows virtual machine
+- Configured NAT networking
+- Tested internet connectivity
+- Practiced basic Linux and Windows networking commands
+
+### Skills Learned
+- Virtual machine deployment
+- NAT networking
+- Basic Linux commands
+- Basic Windows networking commands
+- Connectivity testing
