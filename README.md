@@ -16,36 +16,31 @@ The goal of this lab is to practice:
 
 ## Technologies Used
 - VirtualBox
-- Windows
+- Windows 11
 - Ubuntu Linux
-- Wireshark
-- Cisco Packet Tracer
-
----
-
-## Current Progress
-- [ ] Virtual machine setup
-- [ ] Windows administration
-- [ ] Linux administration
-- [ ] Networking troubleshooting
-- [ ] Wireshark packet analysis
-- [ ] Packet Tracer topologies
+- GitHub
 
 ---
 
 ## Day 1 Progress
 
-### Completed
-- Installed VirtualBox
-- Created Ubuntu virtual machine
-- Created Windows virtual machine
+### Virtualization
+- Created Windows and Ubuntu virtual machines
 - Configured NAT networking
-- Tested internet connectivity
-- Practiced basic Linux and Windows networking commands
+- Tested VM internet connectivity
 
-### Skills Learned
-- Virtual machine deployment
-- NAT networking
-- Basic Linux commands
-- Basic Windows networking commands
-- Connectivity testing
+### Windows Administration
+- Created local users
+- Configured administrator access
+- Configured shared folders
+- Troubleshot permission issues
+
+### Linux Administration
+- Created Linux users
+- Modified Linux file permissions
+- Diagnosed permission-denied errors
+
+### Networking
+- Diagnosed VM network adapter issues
+- Restored internet connectivity
+- Tested connectivity using ping and ip configuration tools
